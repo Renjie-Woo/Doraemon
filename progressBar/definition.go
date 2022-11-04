@@ -1,10 +1,11 @@
 package progressBar
 
 import (
-	"Doraemon/utils"
 	"errors"
 	"fmt"
 	"strconv"
+
+	"github.com/Renjie-Woo/Doraemon/utils"
 )
 
 type ProgressBar struct {
